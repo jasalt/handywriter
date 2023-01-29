@@ -13,7 +13,7 @@ Connect plugin straight with OpenAI API using user owned API keys.
 
 This may be just another side project that will never finish, but code contributions are very welcome.
 
-=============
+# ============= Beginning of the original readme =============
 
 ![Support Level](https://img.shields.io/badge/support-active-green.svg) [![Release Version](https://img.shields.io/wordpress/plugin/v/handywriter?label=Release%20Version)](https://github.com/HandyPlugins/handywriter/releases) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/handywriter?label=WordPress) ![Required PHP Version](https://img.shields.io/wordpress/plugin/required-php/handywriter?label=PHP)
 
