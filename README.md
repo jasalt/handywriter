@@ -8,7 +8,7 @@ Connect plugin straight with OpenAI API using user owned API keys.
 
 ## TODO
 - Look at the code and figure it out
-- Rename maybe to OpenGPTWriterAssist or something less techy
+- Rename maybe to OpenGPTWriterAssist or something
 
 ## Disclaimer
 
