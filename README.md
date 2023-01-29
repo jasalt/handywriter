@@ -1,4 +1,18 @@
-Handywriter
+# Handywriter (fork)
+
+## Fork reason:
+
+Possibly re-use parts of Handywriter plugin UI and re-write PHP/backend parts while modeling the reverse engineered NotionAi "prompt magic" (https://lspace.swyx.io/p/reverse-prompt-eng).
+
+Connect plugin straight with OpenAI API using user owned API keys.
+
+## TODO
+- Look at the code and figure it out
+
+## Disclaimer
+
+This may be just another side project that will never finish, but code contributions are very welcome.
+
 =============
 
 ![Support Level](https://img.shields.io/badge/support-active-green.svg) [![Release Version](https://img.shields.io/wordpress/plugin/v/handywriter?label=Release%20Version)](https://github.com/HandyPlugins/handywriter/releases) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/handywriter?label=WordPress) ![Required PHP Version](https://img.shields.io/wordpress/plugin/required-php/handywriter?label=PHP)
